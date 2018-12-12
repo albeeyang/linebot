@@ -9,5 +9,5 @@ from linebot.models import (
 )
 
 
-line_bot_api = LineBotApi('mOUh/jKcHn5BDSD6gAH3Yeiwm0Yw3S/RKNK+vX5gKMKl4XPaTHPEK2e6FMRnvTkxvnrCaaxjwEQq/Ox+W07ow6fW4pRJzhtj2mFvAYst+zVnHtnbYEqDKHtwOGzWWbLYwIiVQQ/y0td8NGXK6ZaTtgdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('db5556cc9409d63c39d33241d3123233')
+line_bot_api = LineBotApi('HtqPSH1DZtA+3qG/kas2x5Gh+LjR4K6pR7sNgcgTaJ4hLOtbQEcjGfjr2IU8BMMPQXkfGaJYf94LmBfQBLF/UEpj1MMegVFiGSjDQquWSdspt8mEFtvzLE2m4/qqBsEn2f3d3UJivGH2gcPf/r7NNQdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('45514a7408ec2e4026880341666a83be')
